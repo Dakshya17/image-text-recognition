@@ -1,0 +1,7 @@
+pytesseract>=0.3.10
+opencv-python-headless>=4.8
+pillow>=10.0
+numpy>=1.24
+
+# Note: pytesseract is a Python wrapper around the Tesseract OCR engine.
+# You must also install the Tesseract binary separately (see README.md).
